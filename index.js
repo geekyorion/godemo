@@ -3,3 +3,5 @@ function demo() {
 }
 
 window.demo = demo;
+
+export default demo;
