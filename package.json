@@ -1,0 +1,22 @@
+{
+  "name": "godemo",
+  "version": "1.0.0",
+  "description": "this is the demo for publishing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geekyorion/godemo.git"
+  },
+  "keywords": [
+    "demo"
+  ],
+  "author": "geekyorion",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/geekyorion/godemo/issues"
+  },
+  "homepage": "https://github.com/geekyorion/godemo#readme"
+}
